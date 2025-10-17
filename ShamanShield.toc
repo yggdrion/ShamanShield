@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: Shaman Shield Monitor
 ## Notes: Alerts when Water Shield or Lightning Shield is missing
-## Author: YourName
+## Author: r4b2
 ## Version: 1.0.0
 
 ShamanShield.lua
